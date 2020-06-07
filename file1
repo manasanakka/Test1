@@ -1,4 +1,4 @@
 int a=5;
 int b=7;
 c=a+b;
-output:
+output=12;
